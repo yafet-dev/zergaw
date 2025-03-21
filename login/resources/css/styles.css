@@ -1,0 +1,9 @@
+div.kc-logo-text {
+    background-image: url(../img/Blue.svg); /* Change this to your logo */
+    background-size: contain; /* Ensures the logo fits properly */
+    background-position: center; /* Centers the logo */
+    background-repeat: no-repeat;
+    height: 80px; /* Adjust height as needed */
+    width: 320px; /* Adjust width as needed */
+    margin: 0 auto;
+}
